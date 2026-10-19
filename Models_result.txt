@@ -1,0 +1,203 @@
+Logisitic Regression
+Model performance for Training set
+- Accuracy: 0.8055
+- F1 score: 0.7972
+- Precision: 0.6721
+- Recall: 0.5237
+- Roc Auc Score: 0.7156
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7932
+- F1 score: 0.7860
+- Precision: 0.6361
+- Recall: 0.5187
+- Roc Auc Score: 0.7056
+===================================
+
+
+Decision Tree
+Model performance for Training set
+- Accuracy: 0.9988
+- F1 score: 0.9988
+- Precision: 0.9993
+- Recall: 0.9960
+- Roc Auc Score: 0.9979
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7164
+- F1 score: 0.7199
+- Precision: 0.4691
+- Recall: 0.5080
+- Roc Auc Score: 0.6499
+===================================
+
+
+Support Vector Classifier (linear)
+Model performance for Training set
+- Accuracy: 0.7950
+- F1 score: 0.7816
+- Precision: 0.6660
+- Recall: 0.4589
+- Roc Auc Score: 0.6878
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7861
+- F1 score: 0.7746
+- Precision: 0.6327
+- Recall: 0.4652
+- Roc Auc Score: 0.6837
+===================================
+
+
+Support Vector Classifier (poly)
+Model performance for Training set
+- Accuracy: 0.8265
+- F1 score: 0.8182
+- Precision: 0.7290
+- Recall: 0.5525
+- Roc Auc Score: 0.7391
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7854
+- F1 score: 0.7775
+- Precision: 0.6192
+- Recall: 0.5000
+- Roc Auc Score: 0.6943
+===================================
+
+
+Support Vector Classifier (sigmoid)
+Model performance for Training set
+- Accuracy: 0.7360
+- F1 score: 0.7337
+- Precision: 0.5035
+- Recall: 0.4776
+- Roc Auc Score: 0.6536
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7278
+- F1 score: 0.7272
+- Precision: 0.4878
+- Recall: 0.4813
+- Roc Auc Score: 0.6492
+===================================
+
+
+Support Vector Classifier (rbf)
+Model performance for Training set
+- Accuracy: 0.8203
+- F1 score: 0.8093
+- Precision: 0.7292
+- Recall: 0.5151
+- Roc Auc Score: 0.7229
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7839
+- F1 score: 0.7711
+- Precision: 0.6316
+- Recall: 0.4492
+- Roc Auc Score: 0.6772
+===================================
+
+
+KNN Classifier
+Model performance for Training set
+- Accuracy: 0.8375
+- F1 score: 0.8356
+- Precision: 0.7085
+- Recall: 0.6602
+- Roc Auc Score: 0.7809
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7647
+- F1 score: 0.7646
+- Precision: 0.5576
+- Recall: 0.5561
+- Roc Auc Score: 0.6982
+===================================
+
+
+Gaussian Naive Bayes
+Model performance for Training set
+- Accuracy: 0.7095
+- F1 score: 0.7264
+- Precision: 0.4738
+- Recall: 0.8395
+- Roc Auc Score: 0.7510
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.6894
+- F1 score: 0.7075
+- Precision: 0.4535
+- Recall: 0.8209
+- Roc Auc Score: 0.7313
+===================================
+
+
+Random Forest
+Model performance for Training set
+- Accuracy: 0.9988
+- F1 score: 0.9988
+- Precision: 0.9987
+- Recall: 0.9967
+- Roc Auc Score: 0.9981
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7804
+- F1 score: 0.7712
+- Precision: 0.6109
+- Recall: 0.4786
+- Roc Auc Score: 0.6841
+===================================
+
+
+Gradient Boost
+Model performance for Training set
+- Accuracy: 0.8299
+- F1 score: 0.8232
+- Precision: 0.7264
+- Recall: 0.5773
+- Roc Auc Score: 0.7493
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7939
+- F1 score: 0.7871
+- Precision: 0.6364
+- Recall: 0.5241
+- Roc Auc Score: 0.7078
+===================================
+
+
+Adaboost
+Model performance for Training set
+- Accuracy: 0.8101
+- F1 score: 0.8040
+- Precision: 0.6729
+- Recall: 0.5559
+- Roc Auc Score: 0.7290
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7953
+- F1 score: 0.7900
+- Precision: 0.6344
+- Recall: 0.5428
+- Roc Auc Score: 0.7148
+===================================
+
+
+XgBoost
+Model performance for Training set
+- Accuracy: 0.9342
+- F1 score: 0.9336
+- Precision: 0.9004
+- Recall: 0.8462
+- Roc Auc Score: 0.9061
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7811
+- F1 score: 0.7781
+- Precision: 0.5959
+- Recall: 0.5481
+- Roc Auc Score: 0.7068
+===================================
+

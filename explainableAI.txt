@@ -1,0 +1,13 @@
+How to report the results
+- Use mean absolute SHAP values to describe global model importance.
+- Use the beeswarm plot to describe how feature values relate to model output.
+- Use the waterfall plot to explain one prediction.
+- One-hot encoded feature names may need translation into business-friendly labels.
+- SHAP explains model behavior; it does not prove causation.
+- Use a representative sample, preferably from training data, for global explanations. Keep the held-out test set for final evaluation.
+Troubleshooting
+- File not found: update the three paths at the top.
+- Missing tenure_group: use the same raw feature schema used to fit the preprocessor; don't substitute tenure unless that was the training feature.
+- Feature mismatch: make sure the saved model and preprocessor came from the same training run.
+- Memory issue: lower sample_size from 300 to 100 or 50.
+- SHAP/XGBoost error: check package compatibility, then restart the kernel and rerun all cells.

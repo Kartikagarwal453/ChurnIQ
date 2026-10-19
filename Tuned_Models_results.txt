@@ -1,0 +1,63 @@
+Logistic Regression
+Model performance for Training set
+- Accuracy: 0.8055
+- F1 score: 0.5818
+- Precision: 0.6789
+- Recall: 0.5090
+- ROC-AUC: 0.8495
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7918
+- F1 score: 0.5581
+- Precision: 0.6401
+- Recall: 0.4947
+- ROC-AUC: 0.8306
+===================================
+
+AdaBoost
+Model performance for Training set
+- Accuracy: 0.8059
+- F1 score: 0.5970
+- Precision: 0.6658
+- Recall: 0.5411
+- ROC-AUC: 0.8545
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7953
+- F1 score: 0.5777
+- Precision: 0.6396
+- Recall: 0.5267
+- ROC-AUC: 0.8344
+===================================
+
+XGBoost
+Model performance for Training set
+- Accuracy: 0.8135
+- F1 score: 0.6110
+- Precision: 0.6855
+- Recall: 0.5512
+- ROC-AUC: 0.8621
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.7953
+- F1 score: 0.5802
+- Precision: 0.6378
+- Recall: 0.5321
+- ROC-AUC: 0.8378
+===================================
+
+Gaussian Naive Bayes
+Model performance for Training set
+- Accuracy: 0.7093
+- F1 score: 0.6055
+- Precision: 0.4736
+- Recall: 0.8395
+- ROC-AUC: 0.8237
+----------------------------------
+Model performance for Test set
+- Accuracy: 0.6894
+- F1 score: 0.5842
+- Precision: 0.4535
+- Recall: 0.8209
+- ROC-AUC: 0.8078
+===================================
